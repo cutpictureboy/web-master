@@ -1,0 +1,12 @@
+{
+  "name": "web-master-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:islands": "pnpm -F \"islands\" dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
